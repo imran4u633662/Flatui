@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 100%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 10px;
+}
+.container a{
+    text-decoration: none;
+}
+.container .select{
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.first-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.first-container .box1{
+    width: 35vh;
+    height: 10vw;
+    background-color: #00a8ff;
+}
+
+.first-container .box2{
+    background-color:#9c88ff;
+    width: 41vh;
+    height: 10vw;
+}
+.first-container .box3{
+    background-color:#fbc531;
+    width: 41vh;
+    height: 10vw;
+}
+.first-container .box4{
+    background-color:#4cd137;
+    width: 41vh;
+    height: 10vw;
+}
+.first-container .box5{
+    background-color:#487eb0;
+    width: 41vh;
+    height: 10vw;
+}
+.second-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.second-container .box6{
+    width: 35vh;
+    height: 10vw;
+    background-color: #0097e6;
+}
+
+.second-container .box7{
+    background-color:#8c7ae6;
+    width: 41vh;
+    height: 10vw;
+}
+.second-container .box8{
+    background-color:#e1b12c;
+    width: 41vh;
+    height: 10vw;
+}
+.second-container .box9{
+    background-color:#44bd32;
+    width: 41vh;
+    height: 10vw;
+}
+.second-container .box10{
+    background-color:#40739e;
+    width: 41vh;
+    height: 10vw;
+}
+.third-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+}
+.third-container .box11{
+    width: 35vh;
+    height: 10vw;
+    background-color: #e84118;
+}
+
+.third-container .box12{
+    background-color:#f5f6fa;
+    width: 41vh;
+    height: 10vw;
+}
+.third-container .box13{
+    background-color:#7f8fa6;
+    width: 41vh;
+    height: 10vw;
+}
+.third-container .box14{
+    background-color:#273c75;
+    width: 41vh;
+    height: 10vw;
+}
+.third-container .box15{
+    background-color:#353b48;
+    width: 41vh;
+    height: 10vw;
+}
+.forth-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    overflow: auto;
+}
+.forth-container .box16{
+    width: 35vh;
+    height: 10vw;
+    background-color: #c23616;
+}
+
+.forth-container .box17{
+    background-color:#dcdde1;
+    width: 41vh;
+    height: 10vw;
+}
+.forth-container .box18{
+    background-color:#718093;
+    width: 41vh;
+    height: 10vw;
+}
+.forth-container .box19{
+    background-color:#192a56;
+    width: 41vh;
+    height: 10vw;
+}
+.forth-container .box20{
+    background-color:#2f3640;
+    width: 41vh;
+    height: 10vw;
+}
+
